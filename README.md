@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @VictorySpecificationII! My real life handle is Andrew.
-- :computer: I currently work as a High Performance Compute Engineer.
-- 👀 I’m interested in Dev(Sec/Git)Ops, SRE, Infrastructure, Kubernetes, and microprocessor design!
-- 🌱 I’m currently learning Unity, Kafka, AWS and Kubernetes.
-- 💞️ I’m looking to collaborate on community projects, contact me and let's make it happen 😃
-- 📫 How to reach me - drop me a line at andrew@intellectualplay.space and let's chat!
+Hi, I’m Antreas Christofi.
 
-<!---
-VictorySpecificationII/VictorySpecificationII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an infrastructure engineer focused on GPU-accelerated HPC systems, distributed storage, and cluster infrastructure. My work spans SLURM-managed clusters, InfiniBand fabrics, and Ceph-based storage, with an emphasis on reliability, performance, and first-principles reasoning.
+
+I am particularly interested in the design and operation of large-scale AI infrastructure, and in understanding how workload characteristics translate into physical and distributed system requirements.
+
+Recent work:
+First-principles AI GPU infrastructure reference architecture  
+https://github.com/VictorySpecificationII/ai-gpu-infrastructure-reference-architecture
+
+Contact:
+antreas@christofi.me
